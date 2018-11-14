@@ -1,4 +1,15 @@
 # /usr/bin/bash
+#
+clear
+figlet Lord Termux
+sleep 2
+clear
+#
+#
+figlet P-Admin
+#
+#
+echo "DIGITE A URL DO SITE (Ex:www.site.com ou site.com)"
 
 for palavra in $(cat link.txt)
 do
